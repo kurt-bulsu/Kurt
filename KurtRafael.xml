@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+        <students>
+            <student>
+                <name>Kurt Rafael</name>
+                <course>BSIT</course>
+                <year_section>3BG2</year_section>
+                <adviser>Engr. Clara M. Santiago</adviser>
+                <school_year>2025-2026</school_year>
+                <photo>https://randomuser.me/api/portraits/men/1.jpg</photo>
+            </student>
+            <student>
+                <name>Eryn Santiago</name>
+                <course>BSIT</course>
+                <year_section>3BG2</year_section>
+                <adviser>Engr. Clara M. Santiago</adviser>
+                <school_year>2025-2026</school_year>
+                <photo>https://randomuser.me/api/portraits/women/2.jpg</photo>
+            </student>
+            <student>
+                <name>Cedric Dela Torre</name>
+                <course>BSIT</course>
+                <year_section>3BG2</year_section>
+                <adviser>Engr. Clara M. Santiago</adviser>
+                <school_year>2025-2026</school_year>
+                <photo>https://randomuser.me/api/portraits/men/3.jpg</photo>
+            </student>
+            <student>
+                <name>Kaira Domingo</name>
+                <course>BSIT</course>
+                <year_section>3BG2</year_section>
+                <adviser>Engr. Clara M. Santiago</adviser>
+                <school_year>2025-2026</school_year>
+                <photo>https://randomuser.me/api/portraits/women/4.jpg</photo>
+            </student>
+            <student>
+                <name>Kyle Zyren Angeles</name>
+                <course>BSIT</course>
+                <year_section>3BG2</year_section>
+                <adviser>Engr. Clara M. Santiago</adviser>
+                <school_year>2025-2026</school_year>
+                <photo>https://randomuser.me/api/portraits/men/5.jpg</photo>
+            </student>
+            <student>
+                <name>Kyle Colet</name>
+                <course>BSIT</course>
+                <year_section>3BG2</year_section>
+                <adviser>Engr. Clara M. Santiago</adviser>
+                <school_year>2025-2026</school_year>
+                <photo>https://randomuser.me/api/portraits/women/6.jpg</photo>
+            </student>
+            <student>
+                <name>James Anderson</name>
+                <course>BSIT</course>
+                <year_section>3BG2</year_section>
+                <adviser>Engr. Clara M. Santiago</adviser>
+                <school_year>2025-2026</school_year>
+                <photo>https://randomuser.me/api/portraits/men/7.jpg</photo>
+            </student>
+            <student>
+                <name>Sophia Thomas</name>
+                <course>BSIT</course>
+                <year_section>3BG2</year_section>
+                <adviser>Engr. Clara M. Santiago</adviser>
+                <school_year>2025-2026</school_year>
+                <photo>https://randomuser.me/api/portraits/women/8.jpg</photo>
+            </student>
+            <student>
+                <name>Benjamin Harris</name>
+                <course>BSIT</course>
+                <year_section>3BG2</year_section>
+                <adviser>Engr. Clara M. Santiago</adviser>
+                <school_year>2025-2026</school_year>
+                <photo>https://randomuser.me/api/portraits/men/9.jpg</photo>
+            </student>
+            <student>
+                <name>Amelia Clark</name>
+                <course>BSIT</course>
+                <year_section>3BG2</year_section>
+                <adviser>Engr. Clara M. Santiago</adviser>
+                <school_year>2025-2026</school_year>
+                <photo>https://randomuser.me/api/portraits/women/10.jpg</photo>
+            </student>
+        </students>
+
