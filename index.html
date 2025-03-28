@@ -64,14 +64,14 @@
 
     <script>
         document.addEventListener("DOMContentLoaded", function() {
-            fetch("students.xml")
+            fetch("Kurt_Rafael.xml")
                 .then(response => response.text())
                 .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
                 .then(data => {
                     const students = data.getElementsByTagName("student");
                     const studentContainer = document.getElementById("students");
+    
                     let output = "";
-
                     Array.from(students).forEach(student => {
                         const name = student.getElementsByTagName("name")[0].textContent;
                         const course = student.getElementsByTagName("course")[0].textContent;
@@ -79,7 +79,7 @@
                         const adviser = student.getElementsByTagName("adviser")[0].textContent;
                         const schoolYear = student.getElementsByTagName("school_year")[0].textContent;
                         const photo = student.getElementsByTagName("photo")[0].textContent;
-
+    
                         output += `
                             <div class="student-card">
                                 <img src="${photo}" alt="Student Image">
@@ -93,11 +93,11 @@
                             </div>
                         `;
                     });
-
+    
                     studentContainer.innerHTML = output;
                 })
                 .catch(error => console.error("Error loading XML:", error));
         });
-    </script>
+    </script>    
 </body>
 </html>
